@@ -6,17 +6,6 @@
 <h4 align="center">A static website for visualization of various sorting algorithms</h4>
 <h4 align="center"><a href="https://malikhub123.github.io/SortXplorer/" target="_blank" rel="noopener noreferrer"> 🕹 Try it Now! </a></h4>
 
-![demo](https://github.com/iamujj15/sorting-algorithms-visualizer/blob/main/content/sav-demo.gif)
-
-<div align="center">
-
-[![GitHub contributors](https://img.shields.io/github/contributors/iamujj15/sorting-algorithms-visualizer)](https://github.com/iamujj15/sorting-algorithms-visualizer/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/iamujj15/sorting-algorithms-visualizer)](https://github.com/iamujj15/sorting-algorithms-visualizer/issues)
-[![GitHub forks](https://img.shields.io/github/forks/iamujj15/sorting-algorithms-visualizer)](https://github.com/iamujj15/sorting-algorithms-visualizer/network)
-[![GitHub stars](https://img.shields.io/github/stars/iamujj15/sorting-algorithms-visualizer)](https://github.com/iamujj15/sorting-algorithms-visualizer/stargazers)
-[![GitHub license](https://img.shields.io/github/license/iamujj15/sorting-algorithms-visualizer)](https://github.com/iamujj15/sorting-algorithms-visualizer/blob/master/LICENSE)
-
-</div>
 
 
 ## Features
